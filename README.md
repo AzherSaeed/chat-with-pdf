@@ -21,6 +21,11 @@ Where should metadata live?
 How should IDs be generated?
 How should multiple PDFs be handled?
 How should I structure context?
+Should I chunk before metadata?
+How should I assign IDs?
+Should chunks belong to pages?
+Should I store filenames?
+How should retrieval work?
 
 
 **Architecture Flow:**
